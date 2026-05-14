@@ -1,0 +1,1794 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HelloIGEMS/1.0.0": {
+        "dependencies": {
+          "IGEMSAPI": "0.0.0.0"
+        },
+        "runtime": {
+          "HelloIGEMS.dll": {}
+        }
+      },
+      "IGEMSAPI/0.0.0.0": {
+        "runtime": {
+          "IGEMSAPI.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Genamo/0.0.0.0": {
+        "runtime": {
+          "Genamo.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "IGEMS/26.2.0.0": {
+        "runtime": {
+          "IGEMS.dll": {
+            "assemblyVersion": "26.2.0.0",
+            "fileVersion": "26.2.0.0"
+          }
+        }
+      },
+      "Turtle/0.0.0.0": {
+        "runtime": {
+          "Turtle.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Scripting/1.3.5.0": {
+        "runtime": {
+          "Microsoft.Scripting.dll": {
+            "assemblyVersion": "1.3.5.0",
+            "fileVersion": "1.3.5.1000"
+          }
+        }
+      },
+      "WinForms.DataVisualization/1.0.0.0": {
+        "runtime": {
+          "WinForms.DataVisualization.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.9.2.0"
+          }
+        }
+      },
+      "Emgu.CV/4.9.0.5494": {
+        "runtime": {
+          "Emgu.CV.dll": {
+            "assemblyVersion": "4.9.0.5494",
+            "fileVersion": "4.9.0.5494"
+          }
+        }
+      },
+      "DocumentFormat.OpenXml/3.2.0.0": {
+        "runtime": {
+          "DocumentFormat.OpenXml.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.0.0"
+          }
+        }
+      },
+      "DocumentFormat.OpenXml.Framework/3.2.0.0": {
+        "runtime": {
+          "DocumentFormat.OpenXml.Framework.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.0.0"
+          }
+        }
+      },
+      "TXTextControl.Windows.Forms/32.0.1700.600": {
+        "runtime": {
+          "TXTextControl.Windows.Forms.dll": {
+            "assemblyVersion": "32.0.1700.600",
+            "fileVersion": "32.0.1700.600"
+          }
+        }
+      },
+      "TXTextControl/32.0.2500.500": {
+        "runtime": {
+          "TXTextControl.dll": {
+            "assemblyVersion": "32.0.2500.500",
+            "fileVersion": "32.0.2503.500"
+          }
+        }
+      },
+      "devDept.Eyeshot.v2025/2025.1.278.0": {
+        "runtime": {
+          "devDept.Eyeshot.v2025.dll": {
+            "assemblyVersion": "2025.1.278.0",
+            "fileVersion": "2025.1.278.0"
+          }
+        }
+      },
+      "devDept.Eyeshot.Control.Win.v2025/2025.1.278.0": {
+        "runtime": {
+          "devDept.Eyeshot.Control.Win.v2025.dll": {
+            "assemblyVersion": "2025.1.278.0",
+            "fileVersion": "2025.1.278.0"
+          }
+        }
+      },
+      "System.Management/8.0.0.0": {
+        "runtime": {
+          "System.Management.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Guppy/0.0.0.0": {
+        "runtime": {
+          "Guppy.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "ILISP/0.0.0.0": {
+        "runtime": {
+          "ILISP.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "IGEMSCamera/0.0.0.0": {
+        "runtime": {
+          "IGEMSCamera.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "WinForms.DataVisualization.Utilities/1.0.0.0": {
+        "runtime": {
+          "WinForms.DataVisualization.Utilities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.9.2.0"
+          }
+        }
+      },
+      "Alternet.Editor.v9/9.5.0.0": {
+        "runtime": {
+          "Alternet.Editor.v9.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "Alternet.Syntax.v9/9.5.0.0": {
+        "runtime": {
+          "Alternet.Syntax.v9.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "OpenTK.GLControl/4.0.2.0": {
+        "runtime": {
+          "OpenTK.GLControl.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.0.2.0"
+          }
+        }
+      },
+      "ShellBrowser/7.1.0.358": {
+        "runtime": {
+          "ShellBrowser.dll": {
+            "assemblyVersion": "7.1.0.358",
+            "fileVersion": "7.1.0.358"
+          }
+        }
+      },
+      "ShellBrowser.Core/7.1.0.358": {
+        "runtime": {
+          "ShellBrowser.Core.dll": {
+            "assemblyVersion": "7.1.0.358",
+            "fileVersion": "7.1.0.358"
+          }
+        }
+      },
+      "TXDocumentServer/32.0.1800.500": {
+        "runtime": {
+          "TXDocumentServer.dll": {
+            "assemblyVersion": "32.0.1800.500",
+            "fileVersion": "32.0.1803.500"
+          }
+        }
+      },
+      "TXBarcode.Windows.Forms/32.0.800.500": {
+        "runtime": {
+          "TXBarcode.Windows.Forms.dll": {
+            "assemblyVersion": "32.0.800.500",
+            "fileVersion": "32.0.801.500"
+          }
+        }
+      },
+      "TXBarcode/32.0.800.500": {
+        "runtime": {
+          "TXBarcode.dll": {
+            "assemblyVersion": "32.0.800.500",
+            "fileVersion": "32.0.801.500"
+          }
+        }
+      },
+      "PLUSManaged/5.23.4.0": {
+        "runtime": {
+          "PLUSManaged.dll": {
+            "assemblyVersion": "5.23.4.0",
+            "fileVersion": "5.23.4.0"
+          }
+        }
+      },
+      "IronPython/3.4.2.0": {
+        "runtime": {
+          "IronPython.dll": {
+            "assemblyVersion": "3.4.2.0",
+            "fileVersion": "3.4.2.1000"
+          }
+        }
+      },
+      "MySqlConnector/2.0.0.0": {
+        "runtime": {
+          "MySqlConnector.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.5.0.0"
+          }
+        }
+      },
+      "PSN/0.0.0.0": {
+        "runtime": {
+          "PSN.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "devDept.Eyeshot.x64.v2025/2025.1.278.0": {
+        "runtime": {
+          "devDept.Eyeshot.x64.v2025.dll": {
+            "assemblyVersion": "2025.1.278.0",
+            "fileVersion": "2025.1.278.0"
+          }
+        }
+      },
+      "IGSReader/0.0.0.0": {
+        "runtime": {
+          "IGSReader.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Alternet.Editor.Common.v9/9.5.0.0": {
+        "runtime": {
+          "Alternet.Editor.Common.v9.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "Alternet.Scripter.v9/9.5.0.0": {
+        "runtime": {
+          "Alternet.Scripter.v9.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "Alternet.Syntax.Parsers.Roslyn.v9/9.5.0.0": {
+        "runtime": {
+          "Alternet.Syntax.Parsers.Roslyn.v9.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "Alternet.Scripter.Debugger.UI.v9/9.5.0.0": {
+        "runtime": {
+          "Alternet.Scripter.Debugger.UI.v9.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "Alternet.Scripter.Integration.v9/9.5.0.0": {
+        "runtime": {
+          "Alternet.Scripter.Integration.v9.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "Alternet.Scripter.Debugger.v9/9.5.0.0": {
+        "runtime": {
+          "Alternet.Scripter.Debugger.v9.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "Alternet.Scripter.Debugger.Common.v9/9.5.0.0": {
+        "runtime": {
+          "Alternet.Scripter.Debugger.Common.v9.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "Alternet.Common.v9/9.5.0.0": {
+        "runtime": {
+          "Alternet.Common.v9.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "Alternet.Scripter.Common.v9/9.5.0.0": {
+        "runtime": {
+          "Alternet.Scripter.Common.v9.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "IGEMSCamera2/1.0.0.0": {
+        "runtime": {
+          "IGEMSCamera2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "QRCoder/1.7.0.0": {
+        "runtime": {
+          "QRCoder.dll": {
+            "assemblyVersion": "1.7.0.0",
+            "fileVersion": "1.7.0.0"
+          }
+        }
+      },
+      "Barcoder/3.0.0.0": {
+        "runtime": {
+          "Barcoder.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "AForge.Imaging.NetStandard/2.2.6.1": {
+        "runtime": {
+          "AForge.Imaging.NetStandard.dll": {
+            "assemblyVersion": "2.2.6.1",
+            "fileVersion": "2.2.6.1"
+          }
+        }
+      },
+      "Emgu.CV.Bitmap/4.9.0.5494": {
+        "runtime": {
+          "Emgu.CV.Bitmap.dll": {
+            "assemblyVersion": "4.9.0.5494",
+            "fileVersion": "4.9.0.5494"
+          }
+        }
+      },
+      "OpenTK.Windowing.Common/4.9.4.0": {
+        "runtime": {
+          "OpenTK.Windowing.Common.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "OpenTK.Windowing.Desktop/4.9.4.0": {
+        "runtime": {
+          "OpenTK.Windowing.Desktop.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "OpenTK.Graphics/4.9.4.0": {
+        "runtime": {
+          "OpenTK.Graphics.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "TXDocumentServer.Windows.Forms/32.0.1500.500": {
+        "runtime": {
+          "TXDocumentServer.Windows.Forms.dll": {
+            "assemblyVersion": "32.0.1500.500",
+            "fileVersion": "32.0.1503.500"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis/4.11.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.dll": {
+            "assemblyVersion": "4.11.0.0",
+            "fileVersion": "4.1100.24.37604"
+          }
+        }
+      },
+      "Alternet.Editor.Roslyn.v9/9.5.0.0": {
+        "runtime": {
+          "Alternet.Editor.Roslyn.v9.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "FuzzySharp/1.0.4.0": {
+        "runtime": {
+          "FuzzySharp.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "BlendSharp/1.0.0.0": {
+        "runtime": {
+          "BlendSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OpenTK.Core/4.9.4.0": {
+        "runtime": {
+          "OpenTK.Core.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "TXImageProvider/32.0.600.500": {
+        "runtime": {
+          "TXImageProvider.dll": {
+            "assemblyVersion": "32.0.600.500",
+            "fileVersion": "32.0.600.500"
+          }
+        }
+      },
+      "TXDrawing.Windows.Forms/32.0.800.500": {
+        "runtime": {
+          "TXDrawing.Windows.Forms.dll": {
+            "assemblyVersion": "32.0.800.500",
+            "fileVersion": "32.0.800.500"
+          }
+        }
+      },
+      "TXDrawing/32.0.800.500": {
+        "runtime": {
+          "TXDrawing.dll": {
+            "assemblyVersion": "32.0.800.500",
+            "fileVersion": "32.0.800.500"
+          }
+        }
+      },
+      "TXSVGGenerator/32.0.100.500": {
+        "runtime": {
+          "TXSVGGenerator.dll": {
+            "assemblyVersion": "32.0.100.500",
+            "fileVersion": "32.0.103.500"
+          }
+        }
+      },
+      "Xbim.Common/6.0.0.0": {
+        "runtime": {
+          "Xbim.Common.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.517.0"
+          }
+        }
+      },
+      "MIConvexHull/1.1.19.803": {
+        "runtime": {
+          "MIConvexHull.dll": {
+            "assemblyVersion": "1.1.19.803",
+            "fileVersion": "1.1.19.803"
+          }
+        }
+      },
+      "SixLabors.ImageSharp/3.0.0.0": {
+        "runtime": {
+          "SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.1.7.0"
+          }
+        }
+      },
+      "MathNet.Numerics/5.0.0.0": {
+        "runtime": {
+          "MathNet.Numerics.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "protobuf-net/2.4.0.0": {
+        "runtime": {
+          "protobuf-net.dll": {
+            "assemblyVersion": "2.4.0.0",
+            "fileVersion": "2.4.9.1"
+          }
+        }
+      },
+      "SharpGLTF.Toolkit/1.0.0.0": {
+        "runtime": {
+          "SharpGLTF.Toolkit.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SharpGLTF.Core/1.0.0.0": {
+        "runtime": {
+          "SharpGLTF.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DSTV.Net/1.3.0.0": {
+        "runtime": {
+          "DSTV.Net.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
+          }
+        }
+      },
+      "Svg/3.4.0.0": {
+        "runtime": {
+          "Svg.dll": {
+            "assemblyVersion": "3.4.0.0",
+            "fileVersion": "3.4.7.1"
+          }
+        }
+      },
+      "netDxf/1.0.0.0": {
+        "runtime": {
+          "netDxf.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xbim.Ifc/6.0.0.0": {
+        "runtime": {
+          "Xbim.Ifc.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.517.0"
+          }
+        }
+      },
+      "Xbim.Ifc4/6.0.0.0": {
+        "runtime": {
+          "Xbim.Ifc4.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.517.0"
+          }
+        }
+      },
+      "Xbim.Ifc2x3/6.0.0.0": {
+        "runtime": {
+          "Xbim.Ifc2x3.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.517.0"
+          }
+        }
+      },
+      "Hardware.Info/101.0.0.1": {
+        "runtime": {
+          "Hardware.Info.dll": {
+            "assemblyVersion": "101.0.0.1",
+            "fileVersion": "101.0.0.1"
+          }
+        }
+      },
+      "SharpDX.Direct3D11/4.2.0.0": {
+        "runtime": {
+          "SharpDX.Direct3D11.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "SharpDX.DXGI/4.2.0.0": {
+        "runtime": {
+          "SharpDX.DXGI.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "SharpDX/4.2.0.0": {
+        "runtime": {
+          "SharpDX.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "SharpDX.Mathematics/4.2.0.0": {
+        "runtime": {
+          "SharpDX.Mathematics.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "SharpDX.D3DCompiler/4.2.0.0": {
+        "runtime": {
+          "SharpDX.D3DCompiler.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "UglyToad.PdfPig/0.1.10.0": {
+        "runtime": {
+          "UglyToad.PdfPig.dll": {
+            "assemblyVersion": "0.1.10.0",
+            "fileVersion": "0.1.10.0"
+          }
+        }
+      },
+      "UglyToad.PdfPig.DocumentLayoutAnalysis/0.1.10.0": {
+        "runtime": {
+          "UglyToad.PdfPig.DocumentLayoutAnalysis.dll": {
+            "assemblyVersion": "0.1.10.0",
+            "fileVersion": "0.1.10.0"
+          }
+        }
+      },
+      "UglyToad.PdfPig.Tokens/0.1.10.0": {
+        "runtime": {
+          "UglyToad.PdfPig.Tokens.dll": {
+            "assemblyVersion": "0.1.10.0",
+            "fileVersion": "0.1.10.0"
+          }
+        }
+      },
+      "UglyToad.PdfPig.Core/0.1.10.0": {
+        "runtime": {
+          "UglyToad.PdfPig.Core.dll": {
+            "assemblyVersion": "0.1.10.0",
+            "fileVersion": "0.1.10.0"
+          }
+        }
+      },
+      "UglyToad.PdfPig.Filters.Dct.JpegLibrary/0.1.10.2": {
+        "runtime": {
+          "UglyToad.PdfPig.Filters.Dct.JpegLibrary.dll": {
+            "assemblyVersion": "0.1.10.2",
+            "fileVersion": "0.1.10.2"
+          }
+        }
+      },
+      "OpenTK.Mathematics/4.9.4.0": {
+        "runtime": {
+          "OpenTK.Mathematics.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "OpenTK.Windowing.GraphicsLibraryFramework/4.9.4.0": {
+        "runtime": {
+          "OpenTK.Windowing.GraphicsLibraryFramework.dll": {
+            "assemblyVersion": "4.9.4.0",
+            "fileVersion": "4.9.4.0"
+          }
+        }
+      },
+      "TXTextControl.Server/32.0.1700.500": {
+        "runtime": {
+          "TXTextControl.Server.dll": {
+            "assemblyVersion": "32.0.1700.500",
+            "fileVersion": "32.0.1703.500"
+          }
+        }
+      },
+      "Microsoft.Dynamic/1.3.5.0": {
+        "runtime": {
+          "Microsoft.Dynamic.dll": {
+            "assemblyVersion": "1.3.5.0",
+            "fileVersion": "1.3.5.1000"
+          }
+        }
+      },
+      "Mono.Unix/7.1.0.0": {
+        "runtime": {
+          "Mono.Unix.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.100.21.45801"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.1024.46610"
+          }
+        }
+      },
+      "OdSwig_TD_RootIntegrated_Net8/25.7.0.0": {
+        "runtime": {
+          "OdSwig_TD_RootIntegrated_Net8.dll": {
+            "assemblyVersion": "25.7.0.0",
+            "fileVersion": "25.7.0.0"
+          }
+        }
+      },
+      "OdSwig_TD_BrepBuilderFiller_Net8/25.7.0.0": {
+        "runtime": {
+          "OdSwig_TD_BrepBuilderFiller_Net8.dll": {
+            "assemblyVersion": "25.7.0.0",
+            "fileVersion": "25.7.0.0"
+          }
+        }
+      },
+      "OdSwig_TD_DbCoreIntegrated_Net8/25.7.0.0": {
+        "runtime": {
+          "OdSwig_TD_DbCoreIntegrated_Net8.dll": {
+            "assemblyVersion": "25.7.0.0",
+            "fileVersion": "25.7.0.0"
+          }
+        }
+      },
+      "OdSwig_RcsFileServices_Net8/25.7.0.0": {
+        "runtime": {
+          "OdSwig_RcsFileServices_Net8.dll": {
+            "assemblyVersion": "25.7.0.0",
+            "fileVersion": "25.7.0.0"
+          }
+        }
+      },
+      "OdSwig_TD_Dwf7Import_Net8/25.7.0.0": {
+        "runtime": {
+          "OdSwig_TD_Dwf7Import_Net8.dll": {
+            "assemblyVersion": "25.7.0.0",
+            "fileVersion": "25.7.0.0"
+          }
+        }
+      },
+      "OdSwig_PlotSettingsValidator_Net8/25.7.0.0": {
+        "runtime": {
+          "OdSwig_PlotSettingsValidator_Net8.dll": {
+            "assemblyVersion": "25.7.0.0",
+            "fileVersion": "25.7.0.0"
+          }
+        }
+      },
+      "OdSwig_PdfPublish_Net8/25.7.0.0": {
+        "runtime": {
+          "OdSwig_PdfPublish_Net8.dll": {
+            "assemblyVersion": "25.7.0.0",
+            "fileVersion": "25.7.0.0"
+          }
+        }
+      },
+      "OdSwig_OdPrcModule_Net8/25.7.0.0": {
+        "runtime": {
+          "OdSwig_OdPrcModule_Net8.dll": {
+            "assemblyVersion": "25.7.0.0",
+            "fileVersion": "25.7.0.0"
+          }
+        }
+      },
+      "OdSwig_TD_PdfExport_Net8/25.7.0.0": {
+        "runtime": {
+          "OdSwig_TD_PdfExport_Net8.dll": {
+            "assemblyVersion": "25.7.0.0",
+            "fileVersion": "25.7.0.0"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.CSharp/4.11.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.CSharp.dll": {
+            "assemblyVersion": "4.11.0.0",
+            "fileVersion": "4.1100.24.37604"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.VisualBasic/4.11.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.VisualBasic.dll": {
+            "assemblyVersion": "4.11.0.0",
+            "fileVersion": "4.1100.24.37604"
+          }
+        }
+      },
+      "Microsoft.Build.Framework/15.1.0.0": {
+        "runtime": {
+          "Microsoft.Build.Framework.dll": {
+            "assemblyVersion": "15.1.0.0",
+            "fileVersion": "15.8.166.59604"
+          }
+        }
+      },
+      "Microsoft.Build.Utilities.Core/15.1.0.0": {
+        "runtime": {
+          "Microsoft.Build.Utilities.Core.dll": {
+            "assemblyVersion": "15.1.0.0",
+            "fileVersion": "15.8.166.59604"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.Workspaces/4.11.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.Workspaces.dll": {
+            "assemblyVersion": "4.11.0.0",
+            "fileVersion": "4.1100.24.37604"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.CSharp.Workspaces/4.11.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.CSharp.Workspaces.dll": {
+            "assemblyVersion": "4.11.0.0",
+            "fileVersion": "4.1100.24.37604"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.Features/4.11.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.Features.dll": {
+            "assemblyVersion": "4.11.0.0",
+            "fileVersion": "4.1100.24.37604"
+          }
+        }
+      },
+      "mdbgeng/9.5.0.0": {
+        "runtime": {
+          "mdbgeng.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "EasyPipes/1.3.0.0": {
+        "runtime": {
+          "EasyPipes.dll": {
+            "assemblyVersion": "1.3.0.0",
+            "fileVersion": "1.3.0.0"
+          }
+        }
+      },
+      "corapi/9.5.0.0": {
+        "runtime": {
+          "corapi.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "raw/9.5.0.0": {
+        "runtime": {
+          "raw.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "MvCameraControl.Net/4.4.1.3": {
+        "runtime": {
+          "MvCameraControl.Net.dll": {
+            "assemblyVersion": "4.4.1.3",
+            "fileVersion": "4.4.1.3"
+          }
+        }
+      },
+      "AForge.NetStandard/2.2.6.1": {
+        "runtime": {
+          "AForge.NetStandard.dll": {
+            "assemblyVersion": "2.2.6.1",
+            "fileVersion": "2.2.6.1"
+          }
+        }
+      },
+      "AForge.Math.NetStandard/2.2.6.1": {
+        "runtime": {
+          "AForge.Math.NetStandard.dll": {
+            "assemblyVersion": "2.2.6.1",
+            "fileVersion": "2.2.6.1"
+          }
+        }
+      },
+      "Alternet.Syntax.Parsers.XAML.v9/9.5.0.0": {
+        "runtime": {
+          "Alternet.Syntax.Parsers.XAML.v9.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.1024.46610"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/8.0.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "SharpGLTF.Runtime/1.0.0.0": {
+        "runtime": {
+          "SharpGLTF.Runtime.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ExCSS/4.2.3.0": {
+        "runtime": {
+          "ExCSS.dll": {
+            "assemblyVersion": "4.2.3.0",
+            "fileVersion": "4.2.3.0"
+          }
+        }
+      },
+      "Xbim.IO.MemoryModel/6.0.0.0": {
+        "runtime": {
+          "Xbim.IO.MemoryModel.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.517.0"
+          }
+        }
+      },
+      "Xbim.Ifc4x3/6.0.0.0": {
+        "runtime": {
+          "Xbim.Ifc4x3.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.517.0"
+          }
+        }
+      },
+      "Xbim.IO.Esent/6.0.0.0": {
+        "runtime": {
+          "Xbim.IO.Esent.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.517.0"
+          }
+        }
+      },
+      "UglyToad.PdfPig.Fonts/0.1.10.0": {
+        "runtime": {
+          "UglyToad.PdfPig.Fonts.dll": {
+            "assemblyVersion": "0.1.10.0",
+            "fileVersion": "0.1.10.0"
+          }
+        }
+      },
+      "UglyToad.PdfPig.Tokenization/0.1.10.0": {
+        "runtime": {
+          "UglyToad.PdfPig.Tokenization.dll": {
+            "assemblyVersion": "0.1.10.0",
+            "fileVersion": "0.1.10.0"
+          }
+        }
+      },
+      "Microsoft.Scripting.Metadata/1.3.5.0": {
+        "runtime": {
+          "Microsoft.Scripting.Metadata.dll": {
+            "assemblyVersion": "1.3.5.0",
+            "fileVersion": "1.3.5.1000"
+          }
+        }
+      },
+      "OdSwig_TD_PDFToolkit_Net8/25.7.0.0": {
+        "runtime": {
+          "OdSwig_TD_PDFToolkit_Net8.dll": {
+            "assemblyVersion": "25.7.0.0",
+            "fileVersion": "25.7.0.0"
+          }
+        }
+      },
+      "System.Composition.AttributedModel/8.0.0.0": {
+        "runtime": {
+          "System.Composition.AttributedModel.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "System.IO.Pipelines/8.0.0.0": {
+        "runtime": {
+          "System.IO.Pipelines.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "System.Composition.Runtime/8.0.0.0": {
+        "runtime": {
+          "System.Composition.Runtime.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Humanizer/2.14.0.0": {
+        "runtime": {
+          "Humanizer.dll": {
+            "assemblyVersion": "2.14.0.0",
+            "fileVersion": "2.14.1.48190"
+          }
+        }
+      },
+      "System.Composition.TypedParts/8.0.0.0": {
+        "runtime": {
+          "System.Composition.TypedParts.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "System.Composition.Hosting/8.0.0.0": {
+        "runtime": {
+          "System.Composition.Hosting.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.Elfie/1.0.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.Elfie.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.16"
+          }
+        }
+      },
+      "Microsoft.CodeAnalysis.Scripting/4.11.0.0": {
+        "runtime": {
+          "Microsoft.CodeAnalysis.Scripting.dll": {
+            "assemblyVersion": "4.11.0.0",
+            "fileVersion": "4.1100.24.37604"
+          }
+        }
+      },
+      "Microsoft.DiaSymReader/2.0.0.0": {
+        "runtime": {
+          "Microsoft.DiaSymReader.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.23.22804"
+          }
+        }
+      },
+      "NativeDebugWrappers/9.5.0.0": {
+        "runtime": {
+          "NativeDebugWrappers.dll": {
+            "assemblyVersion": "9.5.0.0",
+            "fileVersion": "9.5.16.0"
+          }
+        }
+      },
+      "Castle.Core/4.0.0.0": {
+        "runtime": {
+          "Castle.Core.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.3.1.0"
+          }
+        }
+      },
+      "Esent.Interop/1.9.4.1": {
+        "runtime": {
+          "Esent.Interop.dll": {
+            "assemblyVersion": "1.9.4.1",
+            "fileVersion": "1.9.4.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloIGEMS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IGEMSAPI/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Genamo/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IGEMS/26.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Turtle/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Scripting/1.3.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinForms.DataVisualization/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Emgu.CV/4.9.0.5494": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocumentFormat.OpenXml/3.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DocumentFormat.OpenXml.Framework/3.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TXTextControl.Windows.Forms/32.0.1700.600": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TXTextControl/32.0.2500.500": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "devDept.Eyeshot.v2025/2025.1.278.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "devDept.Eyeshot.Control.Win.v2025/2025.1.278.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Management/8.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Guppy/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ILISP/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IGEMSCamera/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinForms.DataVisualization.Utilities/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alternet.Editor.v9/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alternet.Syntax.v9/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenTK.GLControl/4.0.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShellBrowser/7.1.0.358": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShellBrowser.Core/7.1.0.358": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TXDocumentServer/32.0.1800.500": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TXBarcode.Windows.Forms/32.0.800.500": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TXBarcode/32.0.800.500": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PLUSManaged/5.23.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IronPython/3.4.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySqlConnector/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PSN/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "devDept.Eyeshot.x64.v2025/2025.1.278.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IGSReader/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alternet.Editor.Common.v9/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alternet.Scripter.v9/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alternet.Syntax.Parsers.Roslyn.v9/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alternet.Scripter.Debugger.UI.v9/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alternet.Scripter.Integration.v9/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alternet.Scripter.Debugger.v9/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alternet.Scripter.Debugger.Common.v9/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alternet.Common.v9/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alternet.Scripter.Common.v9/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IGEMSCamera2/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QRCoder/1.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Barcoder/3.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge.Imaging.NetStandard/2.2.6.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Emgu.CV.Bitmap/4.9.0.5494": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenTK.Windowing.Common/4.9.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenTK.Windowing.Desktop/4.9.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenTK.Graphics/4.9.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TXDocumentServer.Windows.Forms/32.0.1500.500": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis/4.11.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alternet.Editor.Roslyn.v9/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FuzzySharp/1.0.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlendSharp/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenTK.Core/4.9.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TXImageProvider/32.0.600.500": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TXDrawing.Windows.Forms/32.0.800.500": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TXDrawing/32.0.800.500": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TXSVGGenerator/32.0.100.500": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Xbim.Common/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MIConvexHull/1.1.19.803": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SixLabors.ImageSharp/3.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathNet.Numerics/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "protobuf-net/2.4.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpGLTF.Toolkit/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpGLTF.Core/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DSTV.Net/1.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Svg/3.4.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "netDxf/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Xbim.Ifc/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Xbim.Ifc4/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Xbim.Ifc2x3/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hardware.Info/101.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpDX.Direct3D11/4.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpDX.DXGI/4.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpDX/4.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpDX.Mathematics/4.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpDX.D3DCompiler/4.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UglyToad.PdfPig/0.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UglyToad.PdfPig.DocumentLayoutAnalysis/0.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UglyToad.PdfPig.Tokens/0.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UglyToad.PdfPig.Core/0.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UglyToad.PdfPig.Filters.Dct.JpegLibrary/0.1.10.2": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenTK.Mathematics/4.9.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenTK.Windowing.GraphicsLibraryFramework/4.9.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TXTextControl.Server/32.0.1700.500": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Dynamic/1.3.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mono.Unix/7.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Abstractions/8.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OdSwig_TD_RootIntegrated_Net8/25.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OdSwig_TD_BrepBuilderFiller_Net8/25.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OdSwig_TD_DbCoreIntegrated_Net8/25.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OdSwig_RcsFileServices_Net8/25.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OdSwig_TD_Dwf7Import_Net8/25.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OdSwig_PlotSettingsValidator_Net8/25.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OdSwig_PdfPublish_Net8/25.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OdSwig_OdPrcModule_Net8/25.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OdSwig_TD_PdfExport_Net8/25.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.CSharp/4.11.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.VisualBasic/4.11.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Build.Framework/15.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Build.Utilities.Core/15.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.Workspaces/4.11.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.CSharp.Workspaces/4.11.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.Features/4.11.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "mdbgeng/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EasyPipes/1.3.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "corapi/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "raw/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MvCameraControl.Net/4.4.1.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge.NetStandard/2.2.6.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AForge.Math.NetStandard/2.2.6.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alternet.Syntax.Parsers.XAML.v9/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection/8.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharpGLTF.Runtime/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExCSS/4.2.3.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Xbim.IO.MemoryModel/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Xbim.Ifc4x3/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Xbim.IO.Esent/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UglyToad.PdfPig.Fonts/0.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UglyToad.PdfPig.Tokenization/0.1.10.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Scripting.Metadata/1.3.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OdSwig_TD_PDFToolkit_Net8/25.7.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Composition.AttributedModel/8.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.IO.Pipelines/8.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Composition.Runtime/8.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Humanizer/2.14.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Composition.TypedParts/8.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Composition.Hosting/8.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.Elfie/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CodeAnalysis.Scripting/4.11.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.DiaSymReader/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NativeDebugWrappers/9.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Castle.Core/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Esent.Interop/1.9.4.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
